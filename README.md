@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ghostzinh0/Ghostzinh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Boas-vindas ao meu perfil 👋
 
-Here are some ideas to get you started:
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:3776AB&height=180&section=header&text=Ghostzinh0%20|%20Python%20&%20Automação&fontSize=32)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Ghostzinh0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostzinh0&layout=compact&langs_count=6&theme=tokyonight"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:3776AB,100:0078D6&height=80&section=footer"/>
+
+</div>
+
+### 📌 Sobre Mim
+- 🔭 Atualmente estudando **Python** e construindo soluções práticas.
+- ⚙️ Interesse em automação, utilitários de sistema e novas tecnologias.
+- 🎯 Foco em aprender boas práticas e evoluir constantemente na programação.
