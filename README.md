@@ -6,9 +6,11 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Interesses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -26,6 +28,7 @@
 </div>
 
 ### 📌 Sobre Mim
-- 🔭 Atualmente a estudar **Python** e a construir soluções práticas.
-- ⚙️ Interesse em automação, utilitários de sistema e novas tecnologias.
-- 🎯 Foco em aprender boas práticas e evoluir constantemente na programação.
+- 🔭 A aprofundar conhecimentos em **Python**, **Inteligência Artificial** e **Automação**.
+- 🛡️ A estudar fundamentos de **Cibersegurança** e segurança aplicada a sistemas inteligentes.
+- ⚙️ Interesse no desenvolvimento de utilitários de sistema e scripts práticos.
+- 🎯 Focado em boas práticas de programação, lógica e evolução técnica constante.
